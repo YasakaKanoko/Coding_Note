@@ -1,4 +1,6 @@
-# 笔记
-[JavaScript](https://1drv.ms/o/s!AgoNX9w3h68JhHifdWyogeRlnJr9?e=16h0KK)
+<p align=center>
+    <samp>Coding Note</samp>
+</p>
+<br>
+- [JavaScript](https://yasakakanoko.notion.site/JavaScript-be592b3502b4430daf1fc9b1784fdf49?pvs=4)
 
-持续更新中...

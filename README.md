@@ -17,3 +17,12 @@
             </p>
         </details>
 </p>
+<br>
+
+<p>
+    <samp>参考文献: <br>
+        <a href="https://zh.javascript.info/">The Modern JavaScript Tutorial</a><br>
+        <a href="https://wangdoc.com/javascript/">JavaScript 教程 - 网道</a><br>
+        <a href="https://es6.ruanyifeng.com/">ECMAScript 6 - 阮一峰</a><br>
+    </samp>
+</p>
